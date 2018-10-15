@@ -17,7 +17,7 @@
     "underscore": "~1.5.2",
     "watch": "~0.8.0",
     "watchr": "~2.4.4",
-    "underscore.string": "^2.3.3",
+    "underscore.string": "^3.3.5",
     "aws-sdk": "^2.0.0-rc.15",
     "simulate": "0.0.3",
     "exorcist": "^0.1.6",
