@@ -20,7 +20,7 @@
     "underscore.string": "^2.3.3",
     "aws-sdk": "^2.0.0-rc.15",
     "simulate": "0.0.3",
-    "exorcist": "^0.1.6",
+    "exorcist": "^2.0.0",
     "uglify-js": "^2.4.13",
     "mustache": "^0.8.1",
     "mime": "^1.2.11",
