@@ -14,7 +14,7 @@
     "lodash": "~2.4.1",
     "mocha-phantomjs": "~3.2.0",
     "phantomjs": "~1.9.2-5",
-    "underscore": "~1.5.2",
+    "underscore": "~1.12.1",
     "watch": "~0.8.0",
     "watchr": "~2.4.4",
     "underscore.string": "^2.3.3",
