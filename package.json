@@ -8,9 +8,9 @@
     "test": "test"
   },
   "dependencies": {
-    "browserify": "~2.35.4",
+    "browserify": "~9.0.0",
     "coffeeify": "~0.5.2",
-    "coffeelint": "^0.6.1",
+    "coffeelint": "^1.0.8",
     "lodash": "~2.4.1",
     "mocha-phantomjs": "~3.2.0",
     "phantomjs": "~1.9.2-5",
@@ -21,7 +21,7 @@
     "aws-sdk": "^2.0.0-rc.15",
     "simulate": "0.0.3",
     "exorcist": "^0.1.6",
-    "uglify-js": "^2.4.13",
+    "uglify-js": "^3.14.3",
     "mustache": "^0.8.1",
     "mime": "^1.2.11",
     "knox": "^0.8.9"
