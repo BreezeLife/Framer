@@ -12,7 +12,7 @@
     "coffeeify": "~0.5.2",
     "coffeelint": "^0.6.1",
     "lodash": "~2.4.1",
-    "mocha-phantomjs": "~3.2.0",
+    "mocha-phantomjs": "~4.0.0",
     "phantomjs": "~1.9.2-5",
     "underscore": "~1.5.2",
     "watch": "~0.8.0",
